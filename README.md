@@ -18,7 +18,7 @@ A responsive UltraEdit landing page clone built using **HTML** and **CSS** only.
 
 ## 📸 Preview
 
-<img width="1440" height="16384" alt="127 0 0 1_5500_(Samsung Galaxy S8+)" src="https://github.com/user-attachments/assets/1284fd9b-7a1b-46f4-b270-b27b4b3b2985" />
+<img width="3476" height="6046" alt="192 168 0 102_3000_index html" src="https://github.com/user-attachments/assets/4bf83f0a-d512-4055-a25c-93b71f83ae6c" />
 
 
 ## 📁 Project Structure
